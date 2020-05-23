@@ -12,17 +12,18 @@
 }
 .box_1 {
 }
-.box_2 {
+._形状 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
-.box_3 {
+._图片 {
 }
-.image {
-}
-.primary_button {
-  color:#FFFFFF;
-}
-.link_button {
-  color:#169BD5;
+.button {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial', sans-serif;
@@ -72,7 +73,21 @@
 ._文本段落 {
   text-align:left;
 }
+.text_link {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
 .line {
+}
+.arrow {
 }
 .text_field {
   color:#000000;
@@ -82,33 +97,22 @@
   color:#000000;
   text-align:left;
 }
-.list_box {
-  color:#000000;
+.checkbox {
   text-align:left;
 }
-.tree_node {
+.radio_button {
   text-align:left;
+}
+.flow_shape {
+}
+.html_button {
+  text-align:center;
 }
 .table_cell {
 }
-._表单提示 {
-  color:#999999;
-}
-._表单禁用 {
-}
-._连接 {
-}
-.sticky_1 {
-  text-align:left;
+.menu_item {
 }
 .marker {
   color:#FFFFFF;
-}
-.form_hint {
-  color:#999999;
-}
-.form_disabled {
-}
-.icon {
 }
 textarea, select, input, button { outline: none; }
